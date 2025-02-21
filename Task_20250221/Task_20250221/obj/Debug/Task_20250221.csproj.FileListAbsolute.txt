@@ -1,0 +1,7 @@
+D:\Git\Git_Desktop\LikeLion\Task_20250221\Task_20250221\bin\Debug\Task_20250221.exe.config
+D:\Git\Git_Desktop\LikeLion\Task_20250221\Task_20250221\bin\Debug\Task_20250221.exe
+D:\Git\Git_Desktop\LikeLion\Task_20250221\Task_20250221\bin\Debug\Task_20250221.pdb
+D:\Git\Git_Desktop\LikeLion\Task_20250221\Task_20250221\obj\Debug\Task_20250221.csproj.AssemblyReference.cache
+D:\Git\Git_Desktop\LikeLion\Task_20250221\Task_20250221\obj\Debug\Task_20250221.csproj.CoreCompileInputs.cache
+D:\Git\Git_Desktop\LikeLion\Task_20250221\Task_20250221\obj\Debug\Task_20250221.exe
+D:\Git\Git_Desktop\LikeLion\Task_20250221\Task_20250221\obj\Debug\Task_20250221.pdb
