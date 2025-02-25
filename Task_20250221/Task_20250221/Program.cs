@@ -17,6 +17,7 @@ namespace Task_20250221
         static void Main(string[] args)
         {
             string consoleStr = "";
+            string savePath = "D:\\Git\\Git_Desktop\\LikeLion\\Task_20250221\\Task_20250221\\Save\\";
             for (int i = 0; i < 10; i++)
             {
                 consoleStr = "";
@@ -37,6 +38,59 @@ namespace Task_20250221
             }
 
             character player = new character(1, 1, 1);
+
+
+            List<string> saveList = new List<string>();
+            saveList = GetSave(savePath);
+
+            while (true)
+            {
+
+                if (saveList != null)
+                {
+                    Console.WriteLine("세이브 파일을 불러오시겠습니까?(Y/N)");
+                    string saveAnswer = Console.ReadLine();
+                    if(saveAnswer == "N" || saveAnswer == "n")
+                    {
+                        break;
+                    }
+                    Console.WriteLine("\n ┌──────────────────────────────────┐");
+                    for (int i = 0; i < saveList.Count; i++)
+                    {
+                        Console.WriteLine($" │              Save{i + 1}               │");
+                    }
+                    Console.WriteLine(" └──────────────────────────────────┘");
+
+                    Console.Write("불러오실 파일의 번호를 입력해주세요 : ");
+                    try
+                    {
+                        int loadSaveNum = int.Parse(Console.ReadLine());
+                        if(loadSaveNum > saveList.Count + 1)
+                        {
+                            Console.Clear();
+                            Console.WriteLine("제대로 된 번호가 아닙니다.");
+                            Console.ReadLine();
+                            Console.Clear();
+                            continue;
+                        }
+                        else
+                        {
+                            Console.WriteLine(saveList[loadSaveNum - 1]);
+                        }
+                            break;
+                    }
+                    catch
+                    {
+                        Console.WriteLine("제대로 된 번호가 아닙니다.");
+                        Console.ReadLine();
+                        Console.Clear();
+                        continue;
+                    }
+
+
+                }
+            }
+
             Console.WriteLine("===엔터를 눌러 스토리를 시작해주세요===");
             Console.ReadLine();
             Console.Clear();
@@ -207,6 +261,7 @@ namespace Task_20250221
 
 
                         }
+                        
 
                     }
                     if (answer.Contains("n") || answer.Contains("N"))
@@ -304,6 +359,27 @@ namespace Task_20250221
             {
                 Console.WriteLine($"링크를 여는 중 오류 발생: {ex.Message}");
             }
+        }
+
+        static List<string> GetSave(string save_path)
+        {
+            List<string> saveFiles = new List<string>();
+            
+            // 디렉토리가 존재하는지 확인
+            if (Directory.Exists(save_path))
+            {
+                // "Save" 폴더 내의 모든 .txt 파일 가져오기
+                string[] files = Directory.GetFiles(save_path, "save*.txt");
+
+                // 리스트에 추가
+                saveFiles.AddRange(files);
+            }
+            else
+            {
+                Console.WriteLine("Save 폴더가 존재하지 않습니다.");
+            }
+
+            return saveFiles;
         }
 
     }

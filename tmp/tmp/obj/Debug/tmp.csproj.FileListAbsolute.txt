@@ -1,0 +1,7 @@
+D:\Git\Git_Desktop\LikeLion\tmp\tmp\obj\Debug\tmp.csproj.AssemblyReference.cache
+D:\Git\Git_Desktop\LikeLion\tmp\tmp\obj\Debug\tmp.csproj.CoreCompileInputs.cache
+D:\Git\Git_Desktop\LikeLion\tmp\tmp\bin\Debug\tmp.exe.config
+D:\Git\Git_Desktop\LikeLion\tmp\tmp\bin\Debug\tmp.exe
+D:\Git\Git_Desktop\LikeLion\tmp\tmp\bin\Debug\tmp.pdb
+D:\Git\Git_Desktop\LikeLion\tmp\tmp\obj\Debug\tmp.exe
+D:\Git\Git_Desktop\LikeLion\tmp\tmp\obj\Debug\tmp.pdb

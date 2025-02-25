@@ -1,0 +1,7 @@
+D:\Git\Git_Desktop\LikeLion\모험가키우기\모험가키우기\bin\Debug\모험가키우기.exe.config
+D:\Git\Git_Desktop\LikeLion\모험가키우기\모험가키우기\bin\Debug\모험가키우기.exe
+D:\Git\Git_Desktop\LikeLion\모험가키우기\모험가키우기\bin\Debug\모험가키우기.pdb
+D:\Git\Git_Desktop\LikeLion\모험가키우기\모험가키우기\obj\Debug\모험가키우기.csproj.AssemblyReference.cache
+D:\Git\Git_Desktop\LikeLion\모험가키우기\모험가키우기\obj\Debug\모험가키우기.csproj.CoreCompileInputs.cache
+D:\Git\Git_Desktop\LikeLion\모험가키우기\모험가키우기\obj\Debug\모험가키우기.exe
+D:\Git\Git_Desktop\LikeLion\모험가키우기\모험가키우기\obj\Debug\모험가키우기.pdb

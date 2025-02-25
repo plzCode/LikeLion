@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Git_Desktop\\LikeLion\\\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{546594AF-3FFE-4683-9223-9B07914C3164}|\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30.csproj|d:\\git\\git_desktop\\likelion\\\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546594AF-3FFE-4683-9223-9B07914C3164}|\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30.csproj|solutionrelative:\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\Program.cs",
+              "RelativeDocumentMoniker": "\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\Program.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\Program.cs",
+              "RelativeToolTip": "\uCF58\uC194\uC88C\uD45C\uBC14\uAFB8\uAE30\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:10:38.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

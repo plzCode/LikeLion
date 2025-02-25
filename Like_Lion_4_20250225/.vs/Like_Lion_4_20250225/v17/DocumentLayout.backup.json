@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_4_20250225\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97BDDCBD-97AB-4495-8EB5-BA681C37DD8F}|Like_Lion_4_20250225\\Like_Lion_4_20250225.csproj|d:\\git\\git_desktop\\likelion\\like_lion_4_20250225\\like_lion_4_20250225\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BDDCBD-97AB-4495-8EB5-BA681C37DD8F}|Like_Lion_4_20250225\\Like_Lion_4_20250225.csproj|solutionrelative:like_lion_4_20250225\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Project\\2021_3_19_Test_PlayerMovement\\Assets\\TFT\\UI\\Script\\Shop_script_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop_script_4.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\2021_3_19_Test_PlayerMovement\\Assets\\TFT\\UI\\Script\\Shop_script_4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Unity\\Project\\2021_3_19_Test_PlayerMovement\\Assets\\TFT\\UI\\Script\\Shop_script_4.cs",
+              "ToolTip": "D:\\Unity\\Project\\2021_3_19_Test_PlayerMovement\\Assets\\TFT\\UI\\Script\\Shop_script_4.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Unity\\Project\\2021_3_19_Test_PlayerMovement\\Assets\\TFT\\UI\\Script\\Shop_script_4.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:22:20.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_4_20250225\\Like_Lion_4_20250225\\Program.cs",
+              "RelativeDocumentMoniker": "Like_Lion_4_20250225\\Program.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_4_20250225\\Like_Lion_4_20250225\\Program.cs",
+              "RelativeToolTip": "Like_Lion_4_20250225\\Program.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAUwKEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:18:46.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

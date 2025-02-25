@@ -1,0 +1,7 @@
+D:\Git\Git_Desktop\LikeLion\콘솔좌표바꾸기\콘솔좌표바꾸기\bin\Debug\콘솔좌표바꾸기.exe.config
+D:\Git\Git_Desktop\LikeLion\콘솔좌표바꾸기\콘솔좌표바꾸기\bin\Debug\콘솔좌표바꾸기.exe
+D:\Git\Git_Desktop\LikeLion\콘솔좌표바꾸기\콘솔좌표바꾸기\bin\Debug\콘솔좌표바꾸기.pdb
+D:\Git\Git_Desktop\LikeLion\콘솔좌표바꾸기\콘솔좌표바꾸기\obj\Debug\콘솔좌표바꾸기.csproj.AssemblyReference.cache
+D:\Git\Git_Desktop\LikeLion\콘솔좌표바꾸기\콘솔좌표바꾸기\obj\Debug\콘솔좌표바꾸기.csproj.CoreCompileInputs.cache
+D:\Git\Git_Desktop\LikeLion\콘솔좌표바꾸기\콘솔좌표바꾸기\obj\Debug\콘솔좌표바꾸기.exe
+D:\Git\Git_Desktop\LikeLion\콘솔좌표바꾸기\콘솔좌표바꾸기\obj\Debug\콘솔좌표바꾸기.pdb

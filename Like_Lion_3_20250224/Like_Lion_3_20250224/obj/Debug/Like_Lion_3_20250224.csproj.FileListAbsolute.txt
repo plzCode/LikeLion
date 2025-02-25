@@ -1,0 +1,7 @@
+D:\Git\Git_Desktop\LikeLion\Like_Lion_3_20250224\Like_Lion_3_20250224\bin\Debug\Like_Lion_3_20250224.exe.config
+D:\Git\Git_Desktop\LikeLion\Like_Lion_3_20250224\Like_Lion_3_20250224\bin\Debug\Like_Lion_3_20250224.exe
+D:\Git\Git_Desktop\LikeLion\Like_Lion_3_20250224\Like_Lion_3_20250224\bin\Debug\Like_Lion_3_20250224.pdb
+D:\Git\Git_Desktop\LikeLion\Like_Lion_3_20250224\Like_Lion_3_20250224\obj\Debug\Like_Lion_3_20250224.csproj.AssemblyReference.cache
+D:\Git\Git_Desktop\LikeLion\Like_Lion_3_20250224\Like_Lion_3_20250224\obj\Debug\Like_Lion_3_20250224.csproj.CoreCompileInputs.cache
+D:\Git\Git_Desktop\LikeLion\Like_Lion_3_20250224\Like_Lion_3_20250224\obj\Debug\Like_Lion_3_20250224.exe
+D:\Git\Git_Desktop\LikeLion\Like_Lion_3_20250224\Like_Lion_3_20250224\obj\Debug\Like_Lion_3_20250224.pdb

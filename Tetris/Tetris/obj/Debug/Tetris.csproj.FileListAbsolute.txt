@@ -1,0 +1,7 @@
+D:\Git\Git_Desktop\LikeLion\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Git\Git_Desktop\LikeLion\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Git\Git_Desktop\LikeLion\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Git\Git_Desktop\LikeLion\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+D:\Git\Git_Desktop\LikeLion\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\Git\Git_Desktop\LikeLion\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Git\Git_Desktop\LikeLion\Tetris\Tetris\obj\Debug\Tetris.pdb
