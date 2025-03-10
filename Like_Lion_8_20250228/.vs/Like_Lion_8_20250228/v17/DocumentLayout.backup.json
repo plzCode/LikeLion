@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_8_20250228\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9852DC-F62B-4852-BBE2-87FCD382B5A5}|Like_Lion_8_20250228\\Like_Lion_8_20250228.csproj|d:\\git\\git_desktop\\likelion\\like_lion_8_20250228\\like_lion_8_20250228\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9852DC-F62B-4852-BBE2-87FCD382B5A5}|Like_Lion_8_20250228\\Like_Lion_8_20250228.csproj|solutionrelative:like_lion_8_20250228\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_8_20250228\\Like_Lion_8_20250228\\Program.cs",
+              "RelativeDocumentMoniker": "Like_Lion_8_20250228\\Program.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_8_20250228\\Like_Lion_8_20250228\\Program.cs",
+              "RelativeToolTip": "Like_Lion_8_20250228\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAApwJsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:26:34.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

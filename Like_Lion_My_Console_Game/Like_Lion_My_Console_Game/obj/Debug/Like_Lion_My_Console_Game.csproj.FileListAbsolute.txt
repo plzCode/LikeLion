@@ -1,0 +1,7 @@
+D:\Git\Git_Desktop\LikeLion\Like_Lion_My_Console_Game\Like_Lion_My_Console_Game\bin\Debug\Like_Lion_My_Console_Game.exe.config
+D:\Git\Git_Desktop\LikeLion\Like_Lion_My_Console_Game\Like_Lion_My_Console_Game\bin\Debug\Like_Lion_My_Console_Game.exe
+D:\Git\Git_Desktop\LikeLion\Like_Lion_My_Console_Game\Like_Lion_My_Console_Game\bin\Debug\Like_Lion_My_Console_Game.pdb
+D:\Git\Git_Desktop\LikeLion\Like_Lion_My_Console_Game\Like_Lion_My_Console_Game\obj\Debug\Like_Lion_My_Console_Game.csproj.AssemblyReference.cache
+D:\Git\Git_Desktop\LikeLion\Like_Lion_My_Console_Game\Like_Lion_My_Console_Game\obj\Debug\Like_Lion_My_Console_Game.csproj.CoreCompileInputs.cache
+D:\Git\Git_Desktop\LikeLion\Like_Lion_My_Console_Game\Like_Lion_My_Console_Game\obj\Debug\Like_Lion_My_Console_Game.exe
+D:\Git\Git_Desktop\LikeLion\Like_Lion_My_Console_Game\Like_Lion_My_Console_Game\obj\Debug\Like_Lion_My_Console_Game.pdb

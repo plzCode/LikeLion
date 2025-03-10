@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\like_lion_17_20250306\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|solutionrelative:like_lion_17_20250306\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|d:\\git\\git_desktop\\likelion\\like_lion_17_20250306\\like_lion_17_20250306\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|solutionrelative:like_lion_17_20250306\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\like_lion_17_20250306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|solutionrelative:like_lion_17_20250306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\like_lion_17_20250306\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|solutionrelative:like_lion_17_20250306\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\like_lion_17_20250306\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|solutionrelative:like_lion_17_20250306\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\like_lion_17_20250306\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A284317-A040-4FDA-B62B-90D234D26394}|Like_Lion_17_20250306\\Like_Lion_17_20250306.csproj|solutionrelative:like_lion_17_20250306\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Monster.cs",
+              "RelativeDocumentMoniker": "Like_Lion_17_20250306\\Monster.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Monster.cs",
+              "RelativeToolTip": "Like_Lion_17_20250306\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:04:28.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Field.cs",
+              "RelativeDocumentMoniker": "Like_Lion_17_20250306\\Field.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Field.cs",
+              "RelativeToolTip": "Like_Lion_17_20250306\\Field.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:04:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\MainGame.cs",
+              "RelativeDocumentMoniker": "Like_Lion_17_20250306\\MainGame.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\MainGame.cs",
+              "RelativeToolTip": "Like_Lion_17_20250306\\MainGame.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvysAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:34:31.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Player.cs",
+              "RelativeDocumentMoniker": "Like_Lion_17_20250306\\Player.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Player.cs",
+              "RelativeToolTip": "Like_Lion_17_20250306\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:12:51.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Info.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Info.cs",
+              "RelativeDocumentMoniker": "Like_Lion_17_20250306\\Info.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Info.cs",
+              "RelativeToolTip": "Like_Lion_17_20250306\\Info.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:12:23.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Program.cs",
+              "RelativeDocumentMoniker": "Like_Lion_17_20250306\\Program.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_17_20250306\\Like_Lion_17_20250306\\Program.cs",
+              "RelativeToolTip": "Like_Lion_17_20250306\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:09:21.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

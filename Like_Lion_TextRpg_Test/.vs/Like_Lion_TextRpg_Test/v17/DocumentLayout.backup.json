@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|d:\\git\\git_desktop\\likelion\\like_lion_textrpg_test\\like_lion_textrpg_test\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|solutionrelative:like_lion_textrpg_test\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|d:\\git\\git_desktop\\likelion\\like_lion_textrpg_test\\like_lion_textrpg_test\\gamemannager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|solutionrelative:like_lion_textrpg_test\\gamemannager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|d:\\git\\git_desktop\\likelion\\like_lion_textrpg_test\\like_lion_textrpg_test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|solutionrelative:like_lion_textrpg_test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|d:\\git\\git_desktop\\likelion\\like_lion_textrpg_test\\like_lion_textrpg_test\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|solutionrelative:like_lion_textrpg_test\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|d:\\git\\git_desktop\\likelion\\like_lion_textrpg_test\\like_lion_textrpg_test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|solutionrelative:like_lion_textrpg_test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|d:\\git\\git_desktop\\likelion\\like_lion_textrpg_test\\like_lion_textrpg_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A46F1B-50FB-4B46-9A4A-C15F22AC4E7D}|Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test.csproj|solutionrelative:like_lion_textrpg_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Field.cs",
+              "RelativeDocumentMoniker": "Like_Lion_TextRpg_Test\\Field.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Field.cs",
+              "RelativeToolTip": "Like_Lion_TextRpg_Test\\Field.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:26:55.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Monster.cs",
+              "RelativeDocumentMoniker": "Like_Lion_TextRpg_Test\\Monster.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Monster.cs",
+              "RelativeToolTip": "Like_Lion_TextRpg_Test\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:25:20.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMannager.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\GameMannager.cs",
+              "RelativeDocumentMoniker": "Like_Lion_TextRpg_Test\\GameMannager.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\GameMannager.cs",
+              "RelativeToolTip": "Like_Lion_TextRpg_Test\\GameMannager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:19:48.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Player.cs",
+              "RelativeDocumentMoniker": "Like_Lion_TextRpg_Test\\Player.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Player.cs",
+              "RelativeToolTip": "Like_Lion_TextRpg_Test\\Player.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:10:50.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Unit.cs",
+              "RelativeDocumentMoniker": "Like_Lion_TextRpg_Test\\Unit.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Unit.cs",
+              "RelativeToolTip": "Like_Lion_TextRpg_Test\\Unit.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAArwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:04:10.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Program.cs",
+              "RelativeDocumentMoniker": "Like_Lion_TextRpg_Test\\Program.cs",
+              "ToolTip": "D:\\Git\\Git_Desktop\\LikeLion\\Like_Lion_TextRpg_Test\\Like_Lion_TextRpg_Test\\Program.cs",
+              "RelativeToolTip": "Like_Lion_TextRpg_Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:02:49.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

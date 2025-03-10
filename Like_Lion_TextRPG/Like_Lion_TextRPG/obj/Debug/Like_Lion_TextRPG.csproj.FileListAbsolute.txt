@@ -1,0 +1,7 @@
+D:\Git\Git_Desktop\LikeLion\Like_Lion_TextRPG\Like_Lion_TextRPG\bin\Debug\Like_Lion_TextRPG.exe.config
+D:\Git\Git_Desktop\LikeLion\Like_Lion_TextRPG\Like_Lion_TextRPG\bin\Debug\Like_Lion_TextRPG.exe
+D:\Git\Git_Desktop\LikeLion\Like_Lion_TextRPG\Like_Lion_TextRPG\bin\Debug\Like_Lion_TextRPG.pdb
+D:\Git\Git_Desktop\LikeLion\Like_Lion_TextRPG\Like_Lion_TextRPG\obj\Debug\Like_Lion_TextRPG.csproj.AssemblyReference.cache
+D:\Git\Git_Desktop\LikeLion\Like_Lion_TextRPG\Like_Lion_TextRPG\obj\Debug\Like_Lion_TextRPG.csproj.CoreCompileInputs.cache
+D:\Git\Git_Desktop\LikeLion\Like_Lion_TextRPG\Like_Lion_TextRPG\obj\Debug\Like_Lion_TextRPG.exe
+D:\Git\Git_Desktop\LikeLion\Like_Lion_TextRPG\Like_Lion_TextRPG\obj\Debug\Like_Lion_TextRPG.pdb
